@@ -5,6 +5,7 @@ The objective is to analyze loan performance, customer behavior, funding trends,
 The analysis computes key KPIs, compares good vs bad loans, and visualizes trends across time, geography, loan terms, employment length, loan purpose, and home ownership.
 <img width="1195" height="928" alt="image" src="https://github.com/user-attachments/assets/af1208a3-382f-4a53-90ab-0aa541a32493" />
 <img width="1496" height="897" alt="image" src="https://github.com/user-attachments/assets/fe61dbdb-c69c-4e2d-9974-a4762b69c5e2" />
+<img width="1919" height="1100" alt="image" src="https://github.com/user-attachments/assets/48266483-b275-4e71-9b2a-31c0a3c1b76d" />
 
 🎯 Objectives
 
