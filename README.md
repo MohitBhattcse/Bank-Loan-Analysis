@@ -3,6 +3,8 @@
 This project performs an end‑to‑end exploratory data analysis (EDA) and visualization on bank loan data using Python.
 The objective is to analyze loan performance, customer behavior, funding trends, and risk metrics to support data‑driven decision‑making.
 The analysis computes key KPIs, compares good vs bad loans, and visualizes trends across time, geography, loan terms, employment length, loan purpose, and home ownership.
+<img width="1195" height="928" alt="image" src="https://github.com/user-attachments/assets/af1208a3-382f-4a53-90ab-0aa541a32493" />
+<img width="1496" height="897" alt="image" src="https://github.com/user-attachments/assets/fe61dbdb-c69c-4e2d-9974-a4762b69c5e2" />
 
 🎯 Objectives
 
